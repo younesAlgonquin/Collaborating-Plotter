@@ -1,15 +1,4 @@
-/**************************************************************************
-Student name: Younes Boutaleb
-Student number: 041019068
-Assignment number (and name if any): Lab 04: Collaborating plotter
-                                                      
-Course name and number: CST8234 C Language
-Lab section number: 013
-Professor’s name: Natalie Gluzman
-Due date of assignment: July 23rd, 2021
-Submission date of assignment: July 14, 2021
-List of source and header files in the project: coPlot.c , coPlot.h
-***************************************************************************/
+
 
 /**************************************************************************
 Declare include files
@@ -28,7 +17,7 @@ Declare include files
  * the results
  * It loops until the user exits
  * Version: 1.0
- * Author/Student Name: Younes Boutaleb
+
  **************************************************************************/
 int main()
 {
